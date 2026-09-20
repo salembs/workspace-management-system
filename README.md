@@ -5,7 +5,7 @@ This project involves the design and development of an embedded surveillance and
 
 ## System Components
 
-! [image alt](https://github.com/salembs/workspace-management-system/blob/b0c7a6435290e2918f32d8e8e755f6500bd95152/system.png)
+![image alt](https://github.com/salembs/workspace-management-system/blob/b0c7a6435290e2918f32d8e8e755f6500bd95152/system.png)
 
 ## Features
 1. **Temperature Monitoring and Control**  
