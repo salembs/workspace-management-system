@@ -3,6 +3,10 @@
 ## Project Overview
 This project involves the design and development of an embedded surveillance and control system for a shared workspace or meeting room. The system monitors environmental conditions such as temperature, light levels, and occupancy, while also providing alert functionalities for emergencies. The system is built around the STM32F401VE microcontroller and integrates various sensors and actuators to ensure optimal workspace conditions.
 
+## System Components
+
+! [image alt](https://github.com/salembs/workspace-management-system/blob/b0c7a6435290e2918f32d8e8e755f6500bd95152/system.png)
+
 ## Features
 1. **Temperature Monitoring and Control**  
    - Uses the LM35 temperature sensor to monitor ambient temperature.  
